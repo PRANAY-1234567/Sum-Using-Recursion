@@ -94,3 +94,5 @@ Identify base and recursive cases
 Understand performance trade-offs
 
 Compare recursive vs iterative solutions
+
+<img width="733" height="708" alt="image" src="https://github.com/user-attachments/assets/214283a8-7f55-4dfc-8e6c-dbe1f771605c" />
